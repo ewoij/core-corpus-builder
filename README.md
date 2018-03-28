@@ -1,6 +1,6 @@
 # CORE corpus builder
 
-Python script building a corpus of scientific articles from the [CORE](https://core.ac.uk/) repository.
+Python script building a corpus of scientific articles from the [CORE](https://core.ac.uk/) repository. The articles are retrieved and stored as text, it is therefore very convenient to perform text-mining operations.
 
 ## Requirements
  - python > 3
